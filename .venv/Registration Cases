@@ -1,0 +1,9 @@
+open website invu.ge
+click the button "Sign in"
+click the button "sign up here"
+enter "mari" in the "First name" field
+enter "kharabadze" in the "Last name" field
+enter "marimar@gmail.com" in the "Email address" field
+enter "marimari123" in the "Password" field
+enter "marimari123" in teh "Confirm Password" field
+click the button "CREATE ACCOUNT"
